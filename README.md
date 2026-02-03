@@ -89,14 +89,6 @@ stockpulse/
 └── public/                # Static assets
 ```
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
-## 👤 Author
-
-**Kunal**
-
 ---
 
-Built with ❤️ using Next.js and modern web technologies.
+Built with Next.js and modern web technologies.
